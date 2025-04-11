@@ -1,0 +1,51 @@
+/* *Menu Product */
+#MenuPageProduct {
+  list-style: none;
+}
+
+#MenuPageProduct li {
+  border-bottom: solid 1px black;
+  padding: 10px 0 10px 10px;
+}
+
+#MenuPageProduct li a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+
+#MenuPageProduct li:hover a {
+  color: white;
+}
+
+#MenuPageProduct li:hover {
+  background-color: rgb(0, 183, 255);
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+#priceCate {
+  list-style: none;
+  padding: 0px;
+}
+
+#priceCate li {
+  border-bottom: solid 1px black;
+  padding: 10px 0 10px 10px;
+}
+
+#priceCate li a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+
+#priceCate li:hover a {
+  color: white;
+}
+
+#priceCate li:hover {
+  background-color: rgb(0, 183, 255);
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}

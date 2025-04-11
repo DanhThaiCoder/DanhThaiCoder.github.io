@@ -1,0 +1,14 @@
+.FormSign {
+    width: 500px;
+    box-shadow: rgb(255, 255, 255) 0px 5px 15px;
+    padding: 20px;
+    transform: translate(140%, 0);
+    margin: 160px 0 100px 0;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+body {
+    background: url('https://wallpapercave.com/uwp/uwp2051228.jpeg') center bottom / cover no-repeat;
+}

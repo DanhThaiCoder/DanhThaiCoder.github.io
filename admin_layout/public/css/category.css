@@ -1,0 +1,19 @@
+label {
+    font-weight: 700;
+}
+
+h5 {
+    font-weight: 700;
+}
+
+.form-label {
+    font-weight: 700;
+}
+
+.form1 {
+    transform: translate(0px, 80%);
+}
+
+.form2 {
+    transform: translate(0px, 60%);
+}

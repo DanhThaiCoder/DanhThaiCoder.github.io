@@ -1,0 +1,56 @@
+/* *Detail */
+.ShowDetail {
+  margin: 0 0 10px 0;
+}
+.ShowDetail h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.ShowDetail p {
+  font-size: 22px;
+}
+
+.ShowDetail .PriceDetail {
+  margin: 0 0 10px 0;
+}
+
+.ShowDetail .PriceDetail .badge {
+  font-size: 16px;
+  transform: translateY(-3px);
+}
+
+.ShowDetail #moreInfo {
+  border: solid 5px black;
+  border-radius: 10px;
+  animation: changeBorderColor 5s infinite alternate;
+}
+
+.ShowDetail .readMore {
+  margin: 10px 0 0 0;
+  width: 230px;
+}
+
+.ShowDetail .buyNowDetail {
+  width: 230px;
+  height: 50px;
+  font-size: 18px;
+}
+
+.ShowDetail .addCartDetail {
+  width: 80px;
+  height: 50px;
+  font-size: 16px;
+}
+
+@keyframes changeBorderColor {
+  0% {
+    border-color: darkcyan;
+  }
+  50% {
+    border-color: red;
+  }
+  100% {
+    border-color: darkcyan;
+  }
+}
